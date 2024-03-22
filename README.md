@@ -1,0 +1,1 @@
+Crie um aplicativo para calcular o valor (custo) de uma viagem. As entradas são: autonomia do veículo (KM/ Litros), distância (KM) e preço do litro do combustível. O programa deve mostrar na tela o custo final.
